@@ -100,21 +100,3 @@ public static void distance(){
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
